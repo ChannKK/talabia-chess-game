@@ -17,7 +17,7 @@ Talabia Chess is a unique 7x6 board game with distinct pieces and rules. This RE
 ## Piece Movements
 The piece movements are as of below:
 
-<img src="https://github.com/ChannKK/talabia-game-chess/assets/91399951/bd6f40a0-67ab-426a-9641-4d1bb26b0158" width=500 height=250>
+<img src="https://github.com/ChannKK/talabia-game-chess/assets/91399951/bd6f40a0-67ab-426a-9641-4d1bb26b0158" width=600 height=250>
  
 ### Additional Piece Movements
   - Every 2 turns (one Yellow move and one Blue move), all Time pieces turn into Plus pieces and vice versa.
