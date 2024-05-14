@@ -1,6 +1,6 @@
 # Talabia Chess
 Talabia Chess is a unique 7x6 board game with distinct pieces and rules. This README outlines the features, rules, and usage instructions for the game.
-<img src="https://github.com/ChannKK/talabia-game-chess/assets/91399951/6f519cf0-47ca-48d2-a363-83873bb822f3" width=500 height=500>
+<img src="https://github.com/ChannKK/talabia-game-chess/assets/91399951/6f519cf0-47ca-48d2-a363-83873bb822f3" width=350 height=350>
 
 ## Features
 - **Resizable Game Window**: Players can resize the game window by dragging its edges.
@@ -15,7 +15,7 @@ Talabia Chess is a unique 7x6 board game with distinct pieces and rules. This RE
 
 ## Piece Movements
 The piece movements are as of below:
-<img src="https://github.com/ChannKK/talabia-game-chess/assets/91399951/bd6f40a0-67ab-426a-9641-4d1bb26b0158" width=700 height=500>
+<img src="https://github.com/ChannKK/talabia-game-chess/assets/91399951/bd6f40a0-67ab-426a-9641-4d1bb26b0158" width=1000 height=450>
  
 ### Additional Piece Movements
   - Every 2 turns (one Yellow move and one Blue move), all Time pieces turn into Plus pieces and vice versa.
