@@ -1,0 +1,9 @@
+Game Save
+Current turn: Yellow
+Round left to exchange time plus pieces: 4
+BPlus BHourglass BTime BSun BTime BHourglass BPlus
+BPoint BPoint BPoint BPoint BPoint BPoint BPoint
+NULL NULL NULL NULL NULL NULL NULL
+NULL NULL NULL NULL NULL NULL NULL
+YPoint YPoint YPoint YPoint YPoint YPoint YPoint
+YPlus YHourglass YTime YSun YTime YHourglass YPlus
